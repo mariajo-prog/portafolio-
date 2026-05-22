@@ -1,0 +1,18 @@
+body {
+    background-color: #fdffb6;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 { 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #bdb2ff;
+}
+
+ul {
+    color: rgb(12, 12, 12);
+}
